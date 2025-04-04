@@ -25,8 +25,8 @@ Frontend Qr code project
 
 ### Links
 
-- Solution URL: [https://github.com/Konamti/previewCard.git]
-- Live Site URL: [https://konamti.github.io/previewCard/]
+- Solution URL: [https://github.com/Konamti/SocialLinkProfile.git]
+- Live Site URL: [https://konamti.github.io/SocialLinkProfile/]
 
 ## My process
 
