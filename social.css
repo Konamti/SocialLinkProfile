@@ -1,0 +1,85 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: white;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--Grey-900);
+  text-align: center;
+}
+
+:root {
+  --Green: hsl(75, 94%, 57%);
+  --White: hsl(0, 0%, 100%);
+  --Grey-700: hsl(0, 0%, 20%);
+  --Grey-800: hsl(0, 0%, 12%);
+  --Grey-900: hsl(0, 0%, 8%);
+}
+
+section {
+  background-color: var(--Grey-800);
+  border-radius: 10px;
+  padding: 28px 20px;
+  margin-bottom: 30px;
+  min-height: 50vh;
+  max-width: 420px;
+  width: 250px;
+}
+
+h1 {
+  color: var(--White);
+  font-weight: 200;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+img {
+  border-radius: 50%;
+  width: 70px;
+}
+span {
+  color: var(--Green);
+  font-size: 12px;
+  font-weight: 0;
+}
+p {
+  color: rgb(174, 174, 174);
+  font-size: 11px;
+  margin: 19px 0px;
+}
+
+.traits {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.joints {
+  background-color: var(--Grey-700);
+  width: 200px;
+  padding: 8px;
+  border-radius: 5px;
+  color: var(--White);
+  font-size: 12px;
+  text-align: center;
+}
+
+.joints:hover {
+  background-color: var(--Green);
+  color: var(--Grey-900);
+  font-weight: 800;
+}
