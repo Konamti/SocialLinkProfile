@@ -1,6 +1,6 @@
-Frontend preview card project
+Frontend Social link profile
 
-# Frontend Mentor - previewCard
+# Frontend Mentor - Social link profile
 
 ## Table of contents
 
