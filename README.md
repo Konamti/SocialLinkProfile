@@ -2,8 +2,6 @@ Frontend preview card project
 
 # Frontend Mentor - previewCard
 
-Frontend Qr code project
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -38,13 +36,7 @@ Frontend Qr code project
 
 ### What I learned
 
-I implemented tags which I barely used when coding, like article and span.
-
-```css
-.two {
-  object-fit: fit;
-}
-```
+nothing new here
 
 ### Continued development
 
